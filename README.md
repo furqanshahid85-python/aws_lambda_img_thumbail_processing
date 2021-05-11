@@ -1,4 +1,5 @@
-# aws_lambda_img_thumbail_processing
+
+# Lambda Function for Img Thumbail Processing
 Aws lambda function that creates an img thumbnail of an image uploaded to S3.
 
 ## Create Lambda Deployment Package
