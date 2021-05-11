@@ -3,7 +3,7 @@
 Aws lambda function that creates an img thumbnail of an image uploaded to S3.
 
 ## Create Lambda Deployment Package
-1. Create a directory and create a file named lambda_function.py in it. 
+1. Create a directory and create a file named lambda_function.py containing the code in it. 
 2. Now in the same directory run the following command.
 
     `pip install pillow -t .`
